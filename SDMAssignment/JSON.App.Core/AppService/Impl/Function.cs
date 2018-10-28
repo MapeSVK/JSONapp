@@ -13,7 +13,7 @@ namespace JSON.app
         {
             _deserializator = deserializator;
         }
-        public int GetNumberOfReviewsByReviewer(int reviewerId)
+        public int GetAmountOfReviewsByReviewer(int reviewerId)
         {
             var stopwatch = StartWatch();
             var numberOfReviews = _deserializator.RatingCollection().Count(n => n.Reviewer == reviewerId);
@@ -24,28 +24,32 @@ namespace JSON.app
         public float GetAverageGradeOfReviewsByReviewer(int reviewerId)
         {
             var sumOfReviewersGrades = _deserializator.RatingCollection().Where(n => n.Reviewer == reviewerId).Sum(o => o.Grade);
-            return sumOfReviewersGrades/GetNumberOfReviewsByReviewer(reviewerId);
+            return sumOfReviewersGrades/GetAmountOfReviewsByReviewer(reviewerId);
         }
 
-        public int GetNumberOfSpecificGradesByReviewer(int specificGrade, int reviewerId)
+        public int GetAmountOfSpecificGradesByReviewer(int specificGrade, int reviewerId)
         {
             var amountOfSpecificGradeByReviewer =  _deserializator.RatingCollection().Where(n => n.Reviewer == reviewerId).Count(o => o.Grade == specificGrade);
             return amountOfSpecificGradeByReviewer;
         }
 
-        public int GetNumberOfMovieReviews(int movieId)
+        public int GetAmountOfMovieReviews(int movieId)
         {
-            throw new System.NotImplementedException();
+            var amountOfReviews = _deserializator.RatingCollection().Count(n => n.Movie == movieId);
+            return amountOfReviews;
         }
 
         public float GetAverageRatingOfMovie(int movieId)
         {
-            throw new System.NotImplementedException();
+            var averageRating = _deserializator.RatingCollection().Where(n => n.Movie == movieId).Sum(o => o.Grade);
+            return averageRating / GetAmountOfMovieReviews(movieId);
         }
 
-        public int GetNumberOfSpecificGradeGivenToMovie(int movieId, int specificGrade)
+        public int GetTotalAmountOfSpecificGradeGivenToMovie(int movieId, int specificGrade)
         {
-            throw new System.NotImplementedException();
+            var amountOfSpecificGrade = _deserializator.RatingCollection().Where(n => n.Movie == movieId)
+                .Count(o => o.Grade == specificGrade);
+            return amountOfSpecificGrade;
         }
 
         public int GetIdOfMovieWithBiggestNumberOfTopGrade()

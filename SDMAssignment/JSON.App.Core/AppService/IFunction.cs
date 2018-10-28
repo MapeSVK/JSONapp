@@ -4,23 +4,23 @@ namespace JSON.app
 {
     public interface IFunction
     {
-        // returns the number of all reviews made by the reviewer
-        int GetNumberOfReviewsByReviewer(int reviewerId);
+        // returns the amount of all reviews made by the reviewer
+        int GetAmountOfReviewsByReviewer(int reviewerId);
 
         // returns the average of the grades made by reviewer
         float GetAverageGradeOfReviewsByReviewer(int reviewerId);
 
-        // returns the total number of specific grade made by the reviewer
-        int GetNumberOfSpecificGradesByReviewer(int specificGrade, int reviewerId);
+        // returns the total amount of specific grade made by the reviewer
+        int GetAmountOfSpecificGradesByReviewer(int specificGrade, int reviewerId);
 
-        // returns the total number of all reviews of specific movie
-        int GetNumberOfMovieReviews(int movieId);
+        // returns the total amount of all reviews of specific movie
+        int GetAmountOfMovieReviews(int movieId);
 
         // returns the average rating of the movie
         float GetAverageRatingOfMovie(int movieId);
 
-        // returns the number of specific grade given to movie
-        int GetNumberOfSpecificGradeGivenToMovie(int movieId, int specificGrade);
+        // returns the total amount of specific grade given to movie
+        int GetTotalAmountOfSpecificGradeGivenToMovie(int movieId, int specificGrade);
 
         // returns id of the movie with the biggest number of the best (top) grade - 5
         int GetIdOfMovieWithBiggestNumberOfTopGrade();
