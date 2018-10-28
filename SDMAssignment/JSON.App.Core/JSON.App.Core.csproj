@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\JSON.APP.Core.Entity\JSON.APP.Core.Entity.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="AppService\Impl" />
+    </ItemGroup>
+
+</Project>

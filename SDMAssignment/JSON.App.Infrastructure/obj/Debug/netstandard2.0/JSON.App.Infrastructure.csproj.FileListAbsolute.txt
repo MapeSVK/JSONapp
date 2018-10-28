@@ -1,0 +1,14 @@
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.App.Infrastructure.deps.json
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.App.Infrastructure.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.App.Infrastructure.pdb
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.App.Core.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.APP.Core.Entity.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.APP.Core.Entity.pdb
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\bin\Debug\netstandard2.0\JSON.App.Core.pdb
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.AssemblyInfo.cs
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.csproj.CopyComplete
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Infrastructure\obj\Debug\netstandard2.0\JSON.App.Infrastructure.pdb

@@ -1,0 +1,69 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Test\\JSON.App.Test.csproj",
+    "projectName": "JSON.App.Test",
+    "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Test\\JSON.App.Test.csproj",
+    "outputPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Test\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\JSON.APP.Core.Entity.csproj": {
+            "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\JSON.APP.Core.Entity.csproj"
+          },
+          "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Core\\JSON.App.Core.csproj": {
+            "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Core\\JSON.App.Core.csproj"
+          },
+          "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Infrastructure\\JSON.App.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Infrastructure\\JSON.App.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.8.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "[4.10.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.3.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

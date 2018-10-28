@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\JSON.APP.Core.Entity\JSON.APP.Core.Entity.csproj" />
+      <ProjectReference Include="..\JSON.App.Core\JSON.App.Core.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    </ItemGroup>
+
+</Project>

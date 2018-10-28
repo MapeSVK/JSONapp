@@ -1,0 +1,12 @@
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\bin\Debug\netstandard2.0\JSON.App.Core.deps.json
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\bin\Debug\netstandard2.0\JSON.App.Core.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\bin\Debug\netstandard2.0\JSON.App.Core.pdb
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\bin\Debug\netstandard2.0\JSON.APP.Core.Entity.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\bin\Debug\netstandard2.0\JSON.APP.Core.Entity.pdb
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.csprojAssemblyReference.cache
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.csproj.CoreCompileInputs.cache
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.AssemblyInfoInputs.cache
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.AssemblyInfo.cs
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.csproj.CopyComplete
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.dll
+C:\Users\ptoma\OneDrive\Documents\BatFolder\Repositories\SDM.Assignment\JSONapp\SDMAssignment\JSON.App.Core\obj\Debug\netstandard2.0\JSON.App.Core.pdb
