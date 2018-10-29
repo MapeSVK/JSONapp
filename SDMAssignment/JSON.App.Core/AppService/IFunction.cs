@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.Reflection;
 
 namespace JSON.app
@@ -29,12 +30,12 @@ namespace JSON.app
         int GetReviewerWithHighestAmountOfReviews();
 
         // returns the amount of the movies specified in the parameter
-        int GetSpecificAmountOfBestMovies(int amountOfMovies);
+        List<int> GetSpecificAmountOfBestMovies(int amountOfMovies);
 
         // returns all movies reviewed by the specific reviewer specified by id as a parameter
-        int GetMoviesReviewedBySpecificReviewer(int reviewerId);
+        List<int> GetMoviesReviewedBySpecificReviewer(int reviewerId);
 
         // returns all reviewers (ids) who reviewed the movie
-        int GetMovieReviewers(int movieId);
+        List<int> GetMovieReviewers(int movieId);
     }
 }

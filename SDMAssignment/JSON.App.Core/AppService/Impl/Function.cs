@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
 using JSON.App.Core.DomainService;
@@ -58,35 +59,35 @@ namespace JSON.app
         {
             var movieId = 0;
             var biggestAmountOfTopGrades = 0;
-            foreach (var movie in _deserializator.RatingCollection())
+            foreach (var movie in _deserializator.RatingCollection().Where(g => g.Grade==5))
             {
-                if (_deserializator.RatingCollection().Where(n => n.Movie == movie.Movie).Count(o => o.Grade == 5) >
-                    biggestAmountOfTopGrades)
+                var ratingNumber = _deserializator.RatingCollection().Count(n => n.Movie == movie.Movie);
+                if (ratingNumber > biggestAmountOfTopGrades)
                 {
-                    biggestAmountOfTopGrades = _deserializator.RatingCollection().Where(n => n.Movie == movie.Movie)
-                        .Count(o => o.Grade == 5);
+                    biggestAmountOfTopGrades = ratingNumber;
                     movieId = movie.Movie;
-                }               
+                }
             }
             return movieId;
         }
 
         public int GetReviewerWithHighestAmountOfReviews()
         {
+           // var topReviewer = _deserializator.RatingCollection().GroupBy(Rating => Rating.Reviewer).Count()
             throw new System.NotImplementedException();
         }
 
-        public int GetSpecificAmountOfBestMovies(int amountOfMovies)
+        public List<int> GetSpecificAmountOfBestMovies(int amountOfMovies)
         {
             throw new System.NotImplementedException();
         }
 
-        public int GetMoviesReviewedBySpecificReviewer(int reviewerId)
+        public List<int> GetMoviesReviewedBySpecificReviewer(int reviewerId)
         {
             throw new System.NotImplementedException();
         }
 
-        public int GetMovieReviewers(int movieId)
+        public List<int> GetMovieReviewers(int movieId)
         {
             throw new System.NotImplementedException();
         }
