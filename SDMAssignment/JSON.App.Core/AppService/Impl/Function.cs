@@ -86,54 +86,46 @@ namespace JSON.app
             return movieId;
         }
 
+	    /*
+	     * 1. Group reviews by reviewerId
+	     * 2. order them descending by counting how many reviews are inside
+	     * 3. select only Key - reviewId
+	     * 4. which reviewId? reviewId of the reviewer who has highest amount of reviews by calling .FirstOrDefault()
+	     */
         public int GetReviewerWithHighestAmountOfReviews()
         {
 	        var stopwatch = StartWatch();
-	        var result = _deserializator.RatingCollection().GroupBy(id => id.Reviewer)
-		        .Select(group => new
-		        {
-			        Key = group.Key, // key is reviewerId
-			        Count = group.Count() // count represents amount of reviews inside of one group (one reviewer)
-		        }).OrderByDescending(x => x.Count).FirstOrDefault();
+	        var result = _deserializator.RatingCollection()
+		        .GroupBy(id => id.Reviewer)
+		        .OrderByDescending(g => g.Count())
+		        .Select(g => g.Key)
+		        .FirstOrDefault();
 
 	        StopWatchAndCheckTime("GetReviewerWithHighestAmountOfReviews", stopwatch);
-	        return result.Key;
-
+	        return result;
         }
-
+	    
+	    /*
+	     * 1. Group reviews by movieIds
+	     * 2. Get their ids and average grade
+	     * 3. Order all movies descending by their grade
+	     * 4. Get specific amount of them by writing .take(parameter)
+	     * 5. With foreach loop go through all results and get ONLY their ids (keys)
+	     * 6. Add them to the new list and return that list
+	     */
         public List<int> GetSpecificAmountOfBestMovies(int amountOfMovies)
         {
-	       
-	        /*
-	         * 1. Group reviews by movieIds
-	         * 2. Get their ids and average grade
-	         * 3. Order all movies descending by their grade
-	         * 4. Get specific amount of them by writing .take(parameter)
-	         * 5. With foreach loop go through all results and get ONLY their ids (keys)
-	         * 6. Add them to the new list and return that list
-	         */
 	        var stopwatch = StartWatch();
-	        var moviesAndAverageGradeSortedList = _deserializator.RatingCollection().GroupBy(movieId => movieId.Movie)
-		        .Select(group => new
-		        {
-			        Key = group.Key, // Key is movieId
-			        Average = group.Average(g => g.Grade)
-		        })
-		        .OrderByDescending(a => a.Average)
+	        var result = _deserializator.RatingCollection()
+		        .GroupBy(i => i.Movie)
+		        .OrderByDescending(g => g.Average(i => i.Grade))
+		        .Select(g => g.Key)
 		        .Take(amountOfMovies)
 		        .ToList();
-	        
-	        var moviesSortedList = new List<int>();
-
-	        foreach (var movie in moviesAndAverageGradeSortedList)
-	        {
-		        var key = movie.Key;
-		        moviesSortedList.Add(key);
-	        }
 
 	        
 	        StopWatchAndCheckTime("GetSpecificAmountOfBestMovies", stopwatch);
-	        return moviesSortedList;
+	        return result;
 
         }
 

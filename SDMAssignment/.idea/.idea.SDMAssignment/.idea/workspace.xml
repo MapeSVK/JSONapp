@@ -24,79 +24,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09884930-c4b9-4a14-b996-6aa47737fe63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDMAssignment.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SDMAssignment.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -152,12 +89,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="3158" />
+          <entry key="cs" value="3561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="3158" />
+          <entry key="C#" value="3561" />
         </counts>
       </usages-collector>
     </session>
@@ -167,34 +104,32 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="163" column="9" lean-forward="true" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
+            <state relative-caret-position="37">
+              <caret line="81" column="42" lean-forward="true" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
               <folding>
-                <marker date="1540835320476" expanded="true" signature="6:207" ph="..." />
-                <marker date="1540835320476" expanded="true" signature="227:7026" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="266:7024" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="395:461" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="531:814" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="887:1239" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="1330:1698" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="1755:2021" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="2080:2395" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="2489:2839" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="2901:3577" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="3118:3453" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="3299:3439" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="3637:4155" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="3812:3980" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="4231:5389" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="4260:4639" ph="/* 1. Group reviews by movieIds ... */" />
-                <marker date="1540835320476" expanded="true" signature="4836:4944" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="5167:5257" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="5467:5868" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="5925:6305" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="6442:6503" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="6512:6650" ph="/* stop the watch and print out name of the method and time spent on execution ... */" />
-                <marker date="1540835320476" expanded="true" signature="6733:7018" ph="{...}" />
-                <marker date="1540835320476" expanded="true" signature="6860:6934" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="6:207" ph="..." />
+                <marker date="1540840292899" expanded="true" signature="227:6764" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="266:6762" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="395:461" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="531:814" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="887:1239" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="1330:1698" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="1755:2021" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="2080:2395" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="2489:2839" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="2901:3577" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="3118:3453" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="3299:3439" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="3584:3860" ph="/* 1. Group reviews by reviewerId ... */" />
+                <marker date="1540840292899" expanded="true" signature="3919:4286" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="4298:4649" ph="/* 1. Group reviews by movieIds ... */" />
+                <marker date="1540840292899" expanded="true" signature="4724:5127" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="5205:5606" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="5663:6043" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="6180:6241" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="6250:6388" ph="/* stop the watch and print out name of the method and time spent on execution ... */" />
+                <marker date="1540840292899" expanded="true" signature="6471:6756" ph="{...}" />
+                <marker date="1540840292899" expanded="true" signature="6598:6672" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -238,7 +173,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="24">
               <caret line="293" column="39" selection-start-line="293" selection-start-column="39" selection-end-line="293" selection-end-column="39" />
               <folding>
                 <marker date="1540835045967" expanded="false" signature="6:170" ph="..." />
@@ -526,12 +461,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540746549950</updated>
       <workItem from="1540746553105" duration="10986000" />
-      <workItem from="1540810413687" duration="12085000" />
+      <workItem from="1540810413687" duration="14256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23071000" />
+    <option name="totallyTimeSpent" value="25242000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -651,7 +586,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="24">
           <caret line="293" column="39" selection-start-line="293" selection-start-column="39" selection-end-line="293" selection-end-column="39" />
           <folding>
             <marker date="1540835045967" expanded="false" signature="6:170" ph="..." />
@@ -720,34 +655,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="163" column="9" lean-forward="true" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
+        <state relative-caret-position="37">
+          <caret line="81" column="42" lean-forward="true" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
           <folding>
-            <marker date="1540835320476" expanded="true" signature="6:207" ph="..." />
-            <marker date="1540835320476" expanded="true" signature="227:7026" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="266:7024" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="395:461" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="531:814" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="887:1239" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="1330:1698" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="1755:2021" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="2080:2395" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="2489:2839" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="2901:3577" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="3118:3453" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="3299:3439" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="3637:4155" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="3812:3980" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="4231:5389" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="4260:4639" ph="/* 1. Group reviews by movieIds ... */" />
-            <marker date="1540835320476" expanded="true" signature="4836:4944" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="5167:5257" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="5467:5868" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="5925:6305" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="6442:6503" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="6512:6650" ph="/* stop the watch and print out name of the method and time spent on execution ... */" />
-            <marker date="1540835320476" expanded="true" signature="6733:7018" ph="{...}" />
-            <marker date="1540835320476" expanded="true" signature="6860:6934" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="6:207" ph="..." />
+            <marker date="1540840292899" expanded="true" signature="227:6764" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="266:6762" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="395:461" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="531:814" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="887:1239" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="1330:1698" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="1755:2021" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="2080:2395" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="2489:2839" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="2901:3577" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="3118:3453" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="3299:3439" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="3584:3860" ph="/* 1. Group reviews by reviewerId ... */" />
+            <marker date="1540840292899" expanded="true" signature="3919:4286" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="4298:4649" ph="/* 1. Group reviews by movieIds ... */" />
+            <marker date="1540840292899" expanded="true" signature="4724:5127" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="5205:5606" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="5663:6043" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="6180:6241" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="6250:6388" ph="/* stop the watch and print out name of the method and time spent on execution ... */" />
+            <marker date="1540840292899" expanded="true" signature="6471:6756" ph="{...}" />
+            <marker date="1540840292899" expanded="true" signature="6598:6672" ph="{...}" />
           </folding>
         </state>
       </provider>
