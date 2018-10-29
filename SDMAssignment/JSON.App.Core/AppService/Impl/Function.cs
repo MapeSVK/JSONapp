@@ -3,6 +3,8 @@ using System.Diagnostics;
 using System.IO;
 using JSON.App.Core.DomainService;
 using System.Linq;
+using System.Runtime.InteropServices;
+
 namespace JSON.app
 {
     public class Function: IFunction
@@ -54,7 +56,19 @@ namespace JSON.app
 
         public int GetIdOfMovieWithBiggestNumberOfTopGrade()
         {
-            throw new System.NotImplementedException();
+            var movieId = 0;
+            var biggestAmountOfTopGrades = 0;
+            foreach (var movie in _deserializator.RatingCollection())
+            {
+                if (_deserializator.RatingCollection().Where(n => n.Movie == movie.Movie).Count(o => o.Grade == 5) >
+                    biggestAmountOfTopGrades)
+                {
+                    biggestAmountOfTopGrades = _deserializator.RatingCollection().Where(n => n.Movie == movie.Movie)
+                        .Count(o => o.Grade == 5);
+                    movieId = movie.Movie;
+                }               
+            }
+            return movieId;
         }
 
         public int GetReviewerWithHighestAmountOfReviews()

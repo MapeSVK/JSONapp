@@ -33,9 +33,9 @@ namespace JSON.App.Test.AppService.Impl
                     Movie = 2
                 }
             });            
-            var testedClas = new Function(dataSource.Object);
+            var testedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClas.GetAmountOfReviewsByReviewer(1),2);            
+            Assert.Equal(testedClass.GetAmountOfReviewsByReviewer(1),2);            
         }
 
         [Fact]
@@ -57,9 +57,9 @@ namespace JSON.App.Test.AppService.Impl
                 }
     
             });            
-            var testedClas = new Function(dataSource.Object);
+            var testedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClas.GetAverageGradeOfReviewsByReviewer(1),2);
+            Assert.Equal(testedClass.GetAverageGradeOfReviewsByReviewer(1),2);
         }
         
         [Fact]
@@ -86,9 +86,9 @@ namespace JSON.App.Test.AppService.Impl
                 }
     
             });            
-            var testedClas = new Function(dataSource.Object);
+            var testedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClas.GetAmountOfSpecificGradesByReviewer(3,1),2);
+            Assert.Equal(testedClass.GetAmountOfSpecificGradesByReviewer(3,1),2);
         }
         
         [Fact]
@@ -117,9 +117,9 @@ namespace JSON.App.Test.AppService.Impl
                 }
     
             });            
-            var testedClas = new Function(dataSource.Object);
+            var TestedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClas.GetAmountOfMovieReviews(1),2);
+            Assert.Equal(TestedClass.GetAmountOfMovieReviews(1),2);
         }
         
         [Fact]
@@ -151,9 +151,9 @@ namespace JSON.App.Test.AppService.Impl
                 }
     
             });            
-            var testedClas = new Function(dataSource.Object);
+            var testedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClas.GetAverageRatingOfMovie(1),3);
+            Assert.Equal(testedClass.GetAverageRatingOfMovie(1),3);
         }
         
         [Fact]
@@ -185,9 +185,49 @@ namespace JSON.App.Test.AppService.Impl
                 }
     
             });            
-            var testedClas = new Function(dataSource.Object);
+            var testedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClas.GetTotalAmountOfSpecificGradeGivenToMovie(1,2),2);
+            Assert.Equal(testedClass.GetTotalAmountOfSpecificGradeGivenToMovie(1,2),2);
+        }
+        
+        [Fact]
+        public void GetIdOfMovieWithBiggestNumberOfTopGrade_ReturnValues()
+        {
+            var dataSource = new Mock<IDeserializator>();
+                            
+            dataSource.Setup(m => m.RatingCollection()).Returns(new List<Rating>()
+            {
+                new Rating()
+                {
+                    Reviewer = 1,
+                    Movie = 3,
+                    Grade = 5
+                    
+                },
+                new Rating()
+                {
+                    Reviewer = 2,
+                    Movie = 3,
+                    Grade = 5
+                   
+                },
+                new Rating()
+                {
+                    Reviewer = 3,
+                    Movie = 2,
+                    Grade = 5                 
+                },
+                new Rating()
+                {
+                Reviewer = 3,
+                Movie = 2,
+                Grade = 2                 
+            }
+    
+            });            
+            var testedClass = new Function(dataSource.Object);
+
+            Assert.Equal(testedClass.GetIdOfMovieWithBiggestNumberOfTopGrade(),3);
         }
     }
 }
