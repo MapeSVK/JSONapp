@@ -1,26 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="09884930-c4b9-4a14-b996-6aa47737fe63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SDMAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/JSON.APP.Core.Entity.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.APP.Core.Entity/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/bin/Debug/netstandard2.0/JSON.App.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/Debug/netstandard2.0/JSON.App.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/JSON.App.Core.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.APP.Core.Entity.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/bin/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/Debug/netstandard2.0/JSON.App.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/JSON.App.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Infrastructure/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.APP.Core.Entity.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/bin/Debug/netcoreapp2.1/JSON.App.Test.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/Debug/netcoreapp2.1/JSON.App.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/JSON.App.Test.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JSON.App.Test/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/JSON.App.Test/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDMAssignment.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SDMAssignment.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,35 +133,204 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1568925533">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="3158" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3158" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+            <state relative-caret-position="404">
+              <caret line="163" column="9" lean-forward="true" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
               <folding>
-                <marker date="1540810353413" expanded="false" signature="6:182" ph="..." />
-                <marker date="1540810353413" expanded="true" signature="202:3984" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="241:3982" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="370:436" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="500:783" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="856:1088" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="1179:1412" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="1469:1626" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="1685:1891" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="1985:2208" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="2270:2821" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="2448:2783" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="2629:2769" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="2881:3067" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="3143:3219" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="3297:3373" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="3430:3506" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="3546:3607" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="3691:3976" ph="{...}" />
-                <marker date="1540810353413" expanded="true" signature="3818:3892" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="6:207" ph="..." />
+                <marker date="1540835320476" expanded="true" signature="227:7026" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="266:7024" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="395:461" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="531:814" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="887:1239" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="1330:1698" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="1755:2021" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="2080:2395" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="2489:2839" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="2901:3577" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="3118:3453" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="3299:3439" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="3637:4155" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="3812:3980" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="4231:5389" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="4260:4639" ph="/* 1. Group reviews by movieIds ... */" />
+                <marker date="1540835320476" expanded="true" signature="4836:4944" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="5167:5257" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="5467:5868" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="5925:6305" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="6442:6503" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="6512:6650" ph="/* stop the watch and print out name of the method and time spent on execution ... */" />
+                <marker date="1540835320476" expanded="true" signature="6733:7018" ph="{...}" />
+                <marker date="1540835320476" expanded="true" signature="6860:6934" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+              <folding>
+                <marker date="1540834571983" expanded="true" signature="6:67" ph="..." />
+                <marker date="1540834571983" expanded="true" signature="90:223" ph="{...}" />
+                <marker date="1540834571983" expanded="true" signature="107:221" ph="{...}" />
+                <marker date="1540834571983" expanded="true" signature="206:218" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSON.App.Infrastructure/Deserializator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+              <folding>
+                <marker date="1540803436227" expanded="false" signature="6:124" ph="..." />
+                <marker date="1540803436227" expanded="true" signature="159:1390" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="210:1388" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="313:372" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="504:562" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="616:1382" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="783:1372" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="1008:1307" ph="{...}" />
+                <marker date="1540803436227" expanded="true" signature="1093:1268" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="293" column="39" selection-start-line="293" selection-start-column="39" selection-end-line="293" selection-end-column="39" />
+              <folding>
+                <marker date="1540835045967" expanded="false" signature="6:170" ph="..." />
+                <marker date="1540835045967" expanded="true" signature="211:11472" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="243:11470" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="332:1104" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="525:931" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="572:721" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="768:917" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="1193:1832" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="1386:1665" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="1433:1516" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="1563:1646" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="1927:2699" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="2120:2529" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="2167:2250" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="2297:2380" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="2427:2510" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="2782:3581" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="2975:3425" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="3022:3126" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="3173:3276" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="3323:3406" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="3664:4575" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="3857:4419" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="3904:4039" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="4086:4220" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="4267:4400" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="4671:5602" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="4864:5426" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="4911:5046" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="5093:5227" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="5274:5407" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="5701:6947" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="5894:6776" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="5941:6076" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="6123:6257" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="6304:6435" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="6482:6596" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="6643:6757" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="7044:7815" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="7237:7646" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="7284:7367" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="7414:7497" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="7544:7627" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="7904:9104" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="8097:8923" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="8144:8299" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="8346:8501" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="8548:8703" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="8750:8905" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="9199:10201" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="9392:10012" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="9439:9594" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="9641:9796" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="9843:9998" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="10278:11464" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="10471:11293" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="10518:10673" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="10720:10875" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="10922:11077" ph="{...}" />
+                <marker date="1540835045967" expanded="true" signature="11124:11279" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+              <folding>
+                <marker date="1540831435972" expanded="false" signature="6:58" ph="..." />
+                <marker date="1540831435972" expanded="true" signature="78:1812" ph="{...}" />
+                <marker date="1540831435972" expanded="true" signature="111:1810" ph="{...}" />
+                <marker date="1540831435972" expanded="true" signature="1188:1323" ph="/* returns the amount of top movies specified in the parameter. ... */" />
+                <marker date="1540831435972" expanded="true" signature="1402:1554" ph="/* returns all movies reviewed by the specific reviewer specified by id as a parameter ... */" />
+                <marker date="1540831435972" expanded="true" signature="1635:1754" ph="/* returns all reviewers (ids) who reviewed the movie ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSON.App.Core/DomainService/IDeserializator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1540803436214" expanded="false" signature="6:49" ph="..." />
+                <marker date="1540803436214" expanded="true" signature="88:244" ph="{...}" />
+                <marker date="1540803436214" expanded="true" signature="127:242" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,21 +338,27 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GetAverageRatingOfMovie</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock:///C# Console" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/JSON.App.Infrastructure/Deserializator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/JSON.App.Core/DomainService/IDeserializator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JSON.App.Infrastructure/Deserializator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
         <option value="$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs" />
         <option value="$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs" />
       </list>
@@ -119,10 +370,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="675" />
-    <option name="width" value="699" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -207,6 +458,11 @@
               <item name="AppService" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Impl" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SDMAssignment" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConsoleApp1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -231,6 +487,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/ConsoleApp1/bin/Debug/netcoreapp2.1/ConsoleApp1.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ConsoleApp1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp1/ConsoleApp1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+    </list>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -242,11 +526,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540746549950</updated>
       <workItem from="1540746553105" duration="10986000" />
+      <workItem from="1540810413687" duration="12085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10986000" />
+    <option name="totallyTimeSpent" value="23071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -258,38 +543,41 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17246963" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18884121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" weight="0.6032028" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3291815" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3287858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.60300136" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3287858" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -304,141 +592,162 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSON.App.Infrastructure/Deserializator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <marker date="1540747873404" expanded="true" signature="6:124" ph="..." />
-            <marker date="1540747873404" expanded="true" signature="159:1390" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="210:1388" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="313:372" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="504:562" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="616:1382" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="783:1372" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="1008:1307" ph="{...}" />
-            <marker date="1540747873404" expanded="true" signature="1093:1268" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSON.App.Core/DomainService/IDeserializator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1540803654780" expanded="false" signature="6:49" ph="..." />
-            <marker date="1540803654780" expanded="true" signature="88:244" ph="{...}" />
-            <marker date="1540803654780" expanded="true" signature="127:242" ph="{...}" />
+            <marker date="1540803436214" expanded="false" signature="6:49" ph="..." />
+            <marker date="1540803436214" expanded="true" signature="88:244" ph="{...}" />
+            <marker date="1540803436214" expanded="true" signature="127:242" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JSON.App.Core/AppService/IFunction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        <state relative-caret-position="585">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
           <folding>
-            <marker date="1540806847811" expanded="false" signature="6:58" ph="..." />
-            <marker date="1540806847811" expanded="true" signature="78:1607" ph="{...}" />
-            <marker date="1540806847811" expanded="true" signature="111:1605" ph="{...}" />
+            <marker date="1540831435972" expanded="false" signature="6:58" ph="..." />
+            <marker date="1540831435972" expanded="true" signature="78:1812" ph="{...}" />
+            <marker date="1540831435972" expanded="true" signature="111:1810" ph="{...}" />
+            <marker date="1540831435972" expanded="true" signature="1188:1323" ph="/* returns the amount of top movies specified in the parameter. ... */" />
+            <marker date="1540831435972" expanded="true" signature="1402:1554" ph="/* returns all movies reviewed by the specific reviewer specified by id as a parameter ... */" />
+            <marker date="1540831435972" expanded="true" signature="1635:1754" ph="/* returns all reviewers (ids) who reviewed the movie ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON.App.Infrastructure/Deserializator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <marker date="1540803436227" expanded="false" signature="6:124" ph="..." />
+            <marker date="1540803436227" expanded="true" signature="159:1390" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="210:1388" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="313:372" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="504:562" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="616:1382" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="783:1372" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="1008:1307" ph="{...}" />
+            <marker date="1540803436227" expanded="true" signature="1093:1268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <marker date="1540834571983" expanded="true" signature="6:67" ph="..." />
+            <marker date="1540834571983" expanded="true" signature="90:223" ph="{...}" />
+            <marker date="1540834571983" expanded="true" signature="107:221" ph="{...}" />
+            <marker date="1540834571983" expanded="true" signature="206:218" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JSON.App.Test/AppService/Impl/FunctionTest.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="245" column="28" selection-start-line="245" selection-start-column="28" selection-end-line="245" selection-end-column="28" />
+        <state relative-caret-position="558">
+          <caret line="293" column="39" selection-start-line="293" selection-start-column="39" selection-end-line="293" selection-end-column="39" />
           <folding>
-            <marker date="1540808359898" expanded="false" signature="6:170" ph="..." />
-            <marker date="1540808359898" expanded="true" signature="211:11490" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="243:11488" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="332:1104" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="525:931" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="572:721" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="768:917" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="1193:1832" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="1386:1665" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="1433:1516" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="1563:1646" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="1927:2699" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="2120:2529" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="2167:2250" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="2297:2380" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="2427:2510" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="2782:3581" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="2975:3425" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="3022:3126" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="3173:3276" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="3323:3406" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="3664:4575" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="3857:4419" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="3904:4039" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="4086:4220" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="4267:4400" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="4671:5602" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="4864:5426" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="4911:5046" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="5093:5227" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="5274:5407" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="5701:6947" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="5894:6776" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="5941:6076" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="6123:6257" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="6304:6435" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="6482:6596" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="6643:6757" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="7044:7815" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="7237:7646" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="7284:7367" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="7414:7497" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="7544:7627" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="7904:9122" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="8097:8941" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="8144:8299" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="8346:8501" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="8548:8703" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="8750:8905" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="9217:10219" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="9410:10030" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="9457:9612" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="9659:9814" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="9861:10016" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="10296:11482" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="10489:11311" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="10536:10691" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="10738:10893" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="10940:11095" ph="{...}" />
-            <marker date="1540808359898" expanded="true" signature="11142:11297" ph="{...}" />
+            <marker date="1540835045967" expanded="false" signature="6:170" ph="..." />
+            <marker date="1540835045967" expanded="true" signature="211:11472" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="243:11470" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="332:1104" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="525:931" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="572:721" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="768:917" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="1193:1832" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="1386:1665" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="1433:1516" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="1563:1646" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="1927:2699" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="2120:2529" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="2167:2250" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="2297:2380" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="2427:2510" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="2782:3581" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="2975:3425" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="3022:3126" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="3173:3276" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="3323:3406" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="3664:4575" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="3857:4419" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="3904:4039" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="4086:4220" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="4267:4400" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="4671:5602" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="4864:5426" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="4911:5046" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="5093:5227" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="5274:5407" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="5701:6947" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="5894:6776" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="5941:6076" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="6123:6257" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="6304:6435" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="6482:6596" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="6643:6757" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="7044:7815" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="7237:7646" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="7284:7367" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="7414:7497" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="7544:7627" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="7904:9104" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="8097:8923" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="8144:8299" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="8346:8501" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="8548:8703" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="8750:8905" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="9199:10201" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="9392:10012" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="9439:9594" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="9641:9796" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="9843:9998" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="10278:11464" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="10471:11293" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="10518:10673" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="10720:10875" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="10922:11077" ph="{...}" />
+            <marker date="1540835045967" expanded="true" signature="11124:11279" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JSON.App.Core/AppService/Impl/Function.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="76" column="55" selection-start-line="76" selection-start-column="55" selection-end-line="76" selection-end-column="55" />
+        <state relative-caret-position="404">
+          <caret line="163" column="9" lean-forward="true" selection-start-line="163" selection-start-column="9" selection-end-line="163" selection-end-column="9" />
           <folding>
-            <marker date="1540810353413" expanded="false" signature="6:182" ph="..." />
-            <marker date="1540810353413" expanded="true" signature="202:3984" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="241:3982" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="370:436" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="500:783" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="856:1088" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="1179:1412" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="1469:1626" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="1685:1891" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="1985:2208" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="2270:2821" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="2448:2783" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="2629:2769" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="2881:3067" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="3143:3219" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="3297:3373" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="3430:3506" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="3546:3607" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="3691:3976" ph="{...}" />
-            <marker date="1540810353413" expanded="true" signature="3818:3892" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="6:207" ph="..." />
+            <marker date="1540835320476" expanded="true" signature="227:7026" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="266:7024" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="395:461" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="531:814" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="887:1239" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="1330:1698" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="1755:2021" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="2080:2395" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="2489:2839" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="2901:3577" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="3118:3453" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="3299:3439" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="3637:4155" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="3812:3980" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="4231:5389" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="4260:4639" ph="/* 1. Group reviews by movieIds ... */" />
+            <marker date="1540835320476" expanded="true" signature="4836:4944" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="5167:5257" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="5467:5868" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="5925:6305" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="6442:6503" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="6512:6650" ph="/* stop the watch and print out name of the method and time spent on execution ... */" />
+            <marker date="1540835320476" expanded="true" signature="6733:7018" ph="{...}" />
+            <marker date="1540835320476" expanded="true" signature="6860:6934" ph="{...}" />
           </folding>
         </state>
       </provider>

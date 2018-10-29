@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{2894B1A6-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON.App.Test", "JSON.App.Test\JSON.App.Test.csproj", "{7E044C7C-9109-4FE4-9E0D-E9DAD5031D2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{24988BD8-C43A-4458-8B3D-4BEAFDD9BF7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{7E044C7C-9109-4FE4-9E0D-E9DAD5031D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E044C7C-9109-4FE4-9E0D-E9DAD5031D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E044C7C-9109-4FE4-9E0D-E9DAD5031D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24988BD8-C43A-4458-8B3D-4BEAFDD9BF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24988BD8-C43A-4458-8B3D-4BEAFDD9BF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24988BD8-C43A-4458-8B3D-4BEAFDD9BF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24988BD8-C43A-4458-8B3D-4BEAFDD9BF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

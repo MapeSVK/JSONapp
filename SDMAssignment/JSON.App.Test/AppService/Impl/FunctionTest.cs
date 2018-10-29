@@ -233,7 +233,7 @@ namespace JSON.App.Test.AppService.Impl
             });            
             var testedClass = new Function(dataSource.Object);
 
-            Assert.Equal(testedClass.GetIdOfMovieWithBiggestNumberOfTopGrade(),2);
+            Assert.Equal(testedClass.GetIdOfMovieWithHighestAmountOfTopGrade(),2);
         }
         
         [Fact]
@@ -299,9 +299,7 @@ namespace JSON.App.Test.AppService.Impl
                     Grade = 3,
                     Movie = 2,
                     Date = "2005-05-12"
-                }
-                
-    
+                }    
             });            
             var testedClass = new Function(dataSource.Object);
 

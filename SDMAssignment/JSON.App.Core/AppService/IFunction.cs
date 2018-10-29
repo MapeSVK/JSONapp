@@ -24,18 +24,21 @@ namespace JSON.app
         int GetTotalAmountOfSpecificGradeGivenToMovie(int movieId, int specificGrade);
 
         // returns id of the movie with the biggest number of the best (top) grade - 5
-        int GetIdOfMovieWithBiggestNumberOfTopGrade();
+        int GetIdOfMovieWithHighestAmountOfTopGrade();
 
         // returns the reviewer who has highest amount of the reviews
         int GetReviewerWithHighestAmountOfReviews();
 
-        // returns the amount of the movies specified in the parameter
+        // returns the amount of top movies specified in the parameter. 
+	    // Movies with top average grade from all reviews are on the top.
         List<int> GetSpecificAmountOfBestMovies(int amountOfMovies);
 
         // returns all movies reviewed by the specific reviewer specified by id as a parameter
+	    // list is sorted descending by grade first and then by date
         List<int> GetMoviesReviewedBySpecificReviewer(int reviewerId);
 
         // returns all reviewers (ids) who reviewed the movie
+	    // list is sorted descending by grade first and then by date
         List<int> GetMovieReviewers(int movieId);
     }
 }

@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ptoma\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/Mape/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\JSON.APP.Core.Entity.csproj",
+      "projectUniqueName": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.APP.Core.Entity/JSON.APP.Core.Entity.csproj",
       "projectName": "JSON.APP.Core.Entity",
-      "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\JSON.APP.Core.Entity.csproj",
-      "packagesPath": "C:\\Users\\ptoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\obj\\",
+      "projectPath": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.APP.Core.Entity/JSON.APP.Core.Entity.csproj",
+      "packagesPath": "/Users/Mape/.nuget/packages/",
+      "outputPath": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.APP.Core.Entity/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ptoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/Mape/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
