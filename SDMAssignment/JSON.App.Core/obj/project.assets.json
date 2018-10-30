@@ -192,23 +192,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/Mape/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\ptoma\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.App.Core/JSON.App.Core.csproj",
+      "projectUniqueName": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Core\\JSON.App.Core.csproj",
       "projectName": "JSON.App.Core",
-      "projectPath": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.App.Core/JSON.App.Core.csproj",
-      "packagesPath": "/Users/Mape/.nuget/packages/",
-      "outputPath": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.App.Core/obj/",
+      "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Core\\JSON.App.Core.csproj",
+      "packagesPath": "C:\\Users\\ptoma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.App.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Mape/.config/NuGet/NuGet.Config"
+        "C:\\Users\\ptoma\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -219,8 +219,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.APP.Core.Entity/JSON.APP.Core.Entity.csproj": {
-              "projectPath": "/Users/Mape/GitClonePath/JSONapp/SDMAssignment/JSON.APP.Core.Entity/JSON.APP.Core.Entity.csproj"
+            "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\JSON.APP.Core.Entity.csproj": {
+              "projectPath": "C:\\Users\\ptoma\\OneDrive\\Documents\\BatFolder\\Repositories\\SDM.Assignment\\JSONapp\\SDMAssignment\\JSON.APP.Core.Entity\\JSON.APP.Core.Entity.csproj"
             }
           }
         }
