@@ -71,19 +71,10 @@ namespace JSON.app
         public int GetIdOfMovieWithHighestAmountOfTopGrade()
         {
 	        var stopwatch = StartWatch();
-            var movieId = 0;
-            var biggestAmountOfTopGrades = 0;
-            foreach (var movie in _deserializator.RatingCollection().Where(g => g.Grade==5))
-            {
-                var ratingNumber = _deserializator.RatingCollection().Count(n => n.Movie == movie.Movie);
-                if (ratingNumber > biggestAmountOfTopGrades)
-                {
-                    biggestAmountOfTopGrades = ratingNumber;
-                    movieId = movie.Movie;
-                }
-            }
+	        var movieID =_deserializator.RatingCollection().Where(g => g.Grade == 5).GroupBy(o => o.Movie).OrderByDescending(k => k.Count())
+		        .Select(k => k.Key).FirstOrDefault();
 	        StopWatchAndCheckTime("GetIdOfMovieWithHighestAmountOfTopGrade", stopwatch);
-            return movieId;
+            return movieID;
         }
 
 	    /*
@@ -120,12 +111,10 @@ namespace JSON.app
 		        .GroupBy(i => i.Movie)
 		        .OrderByDescending(g => g.Average(i => i.Grade))
 		        .Select(g => g.Key)
-		        .Take(amountOfMovies)
-		        .ToList();
-
+		        .Take(amountOfMovies);		       
 	        
 	        StopWatchAndCheckTime("GetSpecificAmountOfBestMovies", stopwatch);
-	        return result;
+	        return new List<int>(result);
 
         }
 

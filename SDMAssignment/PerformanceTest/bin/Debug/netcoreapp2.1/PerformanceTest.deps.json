@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "883f5ab0e357ef56d00e5851b3cee30b45ba651b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "PerformanceTest/1.0.0": {
+        "dependencies": {
+          "JSON.APP.Core.Entity": "1.0.0",
+          "JSON.App.Core": "1.0.0",
+          "JSON.App.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "PerformanceTest.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "JSON.App.Core/1.0.0": {
+        "dependencies": {
+          "JSON.APP.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "JSON.App.Core.dll": {}
+        }
+      },
+      "JSON.APP.Core.Entity/1.0.0": {
+        "runtime": {
+          "JSON.APP.Core.Entity.dll": {}
+        }
+      },
+      "JSON.App.Infrastructure/1.0.0": {
+        "dependencies": {
+          "JSON.APP.Core.Entity": "1.0.0",
+          "JSON.App.Core": "1.0.0",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "JSON.App.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PerformanceTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "JSON.App.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JSON.APP.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "JSON.App.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

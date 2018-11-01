@@ -213,19 +213,19 @@ namespace JSON.App.Test.AppService.Impl
                 },
                 new Rating()
                 {
-                    Reviewer = 3,
+                    Reviewer = 7,
                     Movie = 2,
                     Grade = 5                 
                 },
                 new Rating()
                 {
-                Reviewer = 3,
+                Reviewer = 9,
                 Movie = 2,
                 Grade = 5                
             },
                 new Rating()
                 {
-                Reviewer = 3,
+                Reviewer = 5,
                 Movie = 2,
                 Grade = 5                
             }

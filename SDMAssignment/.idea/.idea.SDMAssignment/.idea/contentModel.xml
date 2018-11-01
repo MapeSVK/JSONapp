@@ -71,9 +71,23 @@
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="PerformanceTest" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PerformanceTest.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PerformanceTest.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="ratings.json" t="Include" />
+      </e>
       <e p="Repositories" t="Include" />
       <e p="SDMAssignment.sln" t="IncludeFlat" />
       <e p="Test" t="Include" />
+      <e p="UI" t="Include" />
     </e>
   </component>
 </project>
